@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "MobileNetworking.dll",
+  "latest": "1286887203-CB0873A16D12257B739D89BEFE5318A9-1",
+  "builds": [
+    {
+      "key": "1286887203-CB0873A16D12257B739D89BEFE5318A9-1",
+      "timestamp": "1286887203",
+      "pdb_guid": "CB0873A16D12257B739D89BEFE5318A9",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1286887203-CB0873A16D12257B739D89BEFE5318A9-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
